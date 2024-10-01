@@ -1,1 +1,5 @@
-Lian
+children = ["Sam", "Alex", "Ben"]
+one, two, three = children
+print(one)
+print(two)
+print(three)
